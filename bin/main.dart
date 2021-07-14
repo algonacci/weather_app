@@ -1,4 +1,4 @@
-import 'dart:io'
+import 'dart:io';
 
 import 'weather_api_client.dart';
 
